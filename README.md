@@ -1,4 +1,4 @@
-Solution: [solution](./crypto.py) 
+[Solution](./crypto.py) 
 
 Ex1:
 ```
